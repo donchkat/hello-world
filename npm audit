@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hello-world": "git://github.com/donchkat/hello-world.git"
+  }
+}
